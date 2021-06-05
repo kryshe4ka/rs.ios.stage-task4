@@ -21,4 +21,3 @@ enum CallStatus: Equatable {
     case talk
     case ended(reason: CallEndReason)
 }
-
